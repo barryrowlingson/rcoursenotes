@@ -93,3 +93,12 @@ Installing additional packages in Linux can be tricky. You can either:
  * install development tools and libraries and install from source
    code via install.packages.
 
+
+Other Software
+----------------
+
+While R is great for statistics, spatial analysis, and graphics, you
+might also want to use a GIS for making maps. Many people use ArcGIS
+for this, but you may want to try Quantum GIS (QGIS) instead. QGIS is
+free and open-source and is downloadable from http://www.qgis.org/ for
+Windows, Mac, and Linux.
