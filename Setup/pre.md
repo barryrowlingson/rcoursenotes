@@ -72,7 +72,10 @@ Start R (or start RStudio) and from the R prompt, use
 
 > install.packages(c("sp","rgdal","raster","rgeos","ggplot2","maptools"))
 
-That should also pull in a lot other dependent packages.
+That should also pull in a lot other dependent packages. If that all
+works without error messages (you may have to ignore some warnings)
+then everything should be all set.
+
 
 MacOS
 -------
