@@ -20,22 +20,19 @@ R runs on Windows, Mac, and Linux computers. If you have any problems
 installing R then first check the documentation on the R web site
 (www.r-project.org).
 
-Windows
----------
+### Windows
 
 Download the exe file installer from here and run it:
 
 http://cran.rstudio.com/bin/windows/base/
 
-MacOS
--------
+### MacOS
 
 Get the latest .pkg file installer from here:
 
 http://cran.rstudio.com/bin/macosx/
 
-Ubuntu Linux
---------------
+### Ubuntu Linux
 
 The official instructions here:
 
