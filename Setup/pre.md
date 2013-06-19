@@ -64,8 +64,7 @@ The RStudio IDE works on Windows, Mac, and Linux platforms.
 Add-on packages
 -----------------
 
-Windows
----------
+### Windows
 
 Start R (or start RStudio) and from the R prompt, use
 'install.packages' to get the packages we need:
@@ -77,8 +76,7 @@ works without error messages (you may have to ignore some warnings)
 then everything should be all set.
 
 
-MacOS
--------
+### MacOS
 
 MacOS packages are supplied in the same way as Windows packages. Start
 R (or RStudio), and do:
@@ -87,8 +85,7 @@ R (or RStudio), and do:
 
 
 
-Linux
-------
+### Linux
 
 Installing additional packages in Linux can be tricky. You can either:
 
